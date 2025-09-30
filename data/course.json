@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "b13fb77f-0c79-a1ae-6883-568f78f1eb05",
+  "instructors": {
+    "content": [
+      "3463f3f1-50fc-bffa-b9f3-4b740bf5fd2c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "79a8cae1-ee38-2769-3301-b03ac196512e",
+    "website": "8-01l-physics-i-classical-mechanics-fall-2005"
+  },
+  "course_title": "Physics I: Classical Mechanics",
+  "hide_download": true,
+  "course_description": "8.01L is an introductory mechanics course, which covers all the topics covered in 8.01T. The class meets throughout the fall, and continues throughout the Independent Activities Period (IAP).\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.01L",
+  "course_image_thumbnail": {
+    "content": "1251cec2-0047-d4ed-2e3a-0f54a58eb3ac",
+    "website": "8-01l-physics-i-classical-mechanics-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "c5d64311-53f0-44f0-bb95-db90d6838e9c",
+  "site_short_id": "8.01l-fall-2005",
+  "site_url_path": "courses/8-01l-physics-i-classical-mechanics-fall-2005",
+  "title": "Course Metadata"
+}
