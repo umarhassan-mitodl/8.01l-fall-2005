@@ -4,8 +4,6 @@ description: This rseource discusses about the topics based on gravity.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/b61ab95ff57cd6641f071823ff1ecfee_lec23.pdf
 file_size: 162484
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

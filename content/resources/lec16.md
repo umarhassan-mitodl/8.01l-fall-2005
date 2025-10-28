@@ -5,8 +5,6 @@ description: This resource discusses about the topics based on potential energy 
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/a416b04bb23692b3a424bae5a22539ba_lec16.pdf
 file_size: 214548
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

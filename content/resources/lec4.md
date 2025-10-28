@@ -5,8 +5,6 @@ description: This resource discusses about free-body diagrams, examples and More
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/b6c8f4cce190bc9bea5b0ec3a20f3f5f_lec4.pdf
 file_size: 116771
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

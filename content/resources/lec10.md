@@ -4,8 +4,6 @@ description: This resource discusses about friction.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/d9152a86e823284842012b6df47be99d_lec10.pdf
 file_size: 130511
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

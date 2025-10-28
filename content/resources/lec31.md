@@ -4,8 +4,6 @@ description: This resource discusses more about momentum of rotation.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/708a2f0e84c390a7c12762e41d596f5c_lec31.pdf
 file_size: 121236
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

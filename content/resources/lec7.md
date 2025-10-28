@@ -4,8 +4,6 @@ description: 'This resource discusses about kinematics: 2D motion, and circular 
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/6a6f704a1b311bdde05f3c1fcfb47769_lec7.pdf
 file_size: 165226
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

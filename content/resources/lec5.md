@@ -5,8 +5,6 @@ description: 'This resource discusses about kinematics: describing 1D motion, an
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/031b836f835c807392edcb435c8228b1_lec5.pdf
 file_size: 109027
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

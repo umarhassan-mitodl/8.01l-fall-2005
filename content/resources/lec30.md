@@ -4,8 +4,6 @@ description: This resource discusses about energy and Momentum of Rotation.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/9bf73f91483e554d8c419ad3ae52c129_lec30.pdf
 file_size: 66583
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

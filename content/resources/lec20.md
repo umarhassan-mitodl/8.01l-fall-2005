@@ -5,8 +5,6 @@ description: This resource discusses about the topics based on power, impulse, c
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/458f7ff4a80d4aa31098314dae0f0d5f_lec20.pdf
 file_size: 124845
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

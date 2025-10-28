@@ -5,8 +5,6 @@ description: This resource discusses force as a vector, static equilibrium, addi
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/2376a141e65815474d4d05fd09c3f300_lec2.pdf
 file_size: 84650
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

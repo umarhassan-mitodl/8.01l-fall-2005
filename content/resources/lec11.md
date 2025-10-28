@@ -4,8 +4,6 @@ description: This resource discusses about the topics based on springs.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/7ab5ad88c5f1229757ecc4b79358c715_lec11.pdf
 file_size: 79826
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

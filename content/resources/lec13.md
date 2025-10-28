@@ -5,8 +5,6 @@ description: This resource discusses about the topic conclusion of F=ma, and sta
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/024eb6ac0d0bc2c01a140021acb110ee_lec13.pdf
 file_size: 80245
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

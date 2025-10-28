@@ -4,8 +4,6 @@ description: This resource discusses examples and an experiment on static equili
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/830702b003769147f4b12e48f064bc0e_lec3.pdf
 file_size: 169307
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

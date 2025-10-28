@@ -5,8 +5,6 @@ description: This resource discusses about the topics based on Everything you ne
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/3608221741dd7ce67b6ee2ff650d0e17_lec28.pdf
 file_size: 178785
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
